@@ -20,7 +20,7 @@
 
 │       │   ├── helloworld.cpp          # C++源代码
 
-│       │   └── cpp\\\\\\\_helloworld.png      # C++运行结果截图
+│       │   └── 代码运行.png      # C++运行结果截图
 
 │       └── ubuntu            # Ubuntu环境
 
