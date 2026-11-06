@@ -1,8 +1,3 @@
-\# 算法培训作业仓库
-\### 目录结构：
-
-```text
-
 Algorithm-Training
 ├─ task1
 │  ├─ cpp
@@ -48,12 +43,37 @@ Algorithm-Training
 │     ├─ rating_level.cpp
 │     └─ students.cpp
 ├─ task5
+│  ├─ my_action_ws
+│  │  └─ src
+│  │     ├─ demo_cpp_action
+│  │     │  ├─ src
+│  │     │  │  ├─ client.cpp
+│  │     │  │  └─ server.cpp
+│  │     │  ├─ CMakeLists.txt
+│  │     │  ├─ LICENSE
+│  │     │  └─ package.xml
+│  │     └─ task3_interfaces
+│  │        ├─ action
+│  │        │  └─ Sum.action
+│  │        ├─ CMakeLists.txt
+│  │        ├─ LICENSE
+│  │        └─ package.xml
+│  ├─ my_service_ws
+│  │  └─ src
+│  │     ├─ demo_cpp_service
+│  │     │  ├─ src
+│  │     │  │  ├─ client.cpp
+│  │     │  │  └─ server.cpp
+│  │     │  ├─ CMakeLists.txt
+│  │     │  ├─ LICENSE
+│  │     │  └─ package.xml
+│  │     └─ task2_interfaces
+│  │        ├─ srv
+│  │        │  └─ Fibonacci.srv
+│  │        ├─ CMakeLists.txt
+│  │        ├─ LICENSE
+│  │        └─ package.xml
 │  └─ my_topic_ws
-│     ├─ log
-│     │  ├─ build_2026-11-05_12-34-06
-│     │  │  ├─ demo_cpp_topic
-│     │  │  └─ task1_interfaces
-│     │  └─ COLCON_IGNORE
 │     └─ src
 │        ├─ demo_cpp_topic
 │        │  ├─ src
